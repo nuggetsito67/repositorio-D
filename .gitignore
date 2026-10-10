@@ -1,0 +1,7 @@
+build/
+*.out
+*.exe
+*.o
+VehiculosApp
+CarritoApp
+BibliotecaApp
